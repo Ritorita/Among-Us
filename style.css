@@ -1,0 +1,14 @@
+h1 {
+  color: brown;
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: aquamarine;
+}
+p {
+  width: 40vw;
+}
+li {
+  width: 40vw;
+}
